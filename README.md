@@ -12,9 +12,8 @@
 
 This repository contains a basic template for creating a **ModMail** bot using my <a href="https://github.com/miguelmikkey/discordjs-bot-template">discordjs bot template</a>
 
-## Contributing
-
-> [!CAUTION] **This repository is under development, none of the code has any functionality besides whats already shown at the main templates repository**
+> [!CAUTION]
+> **This repository is under development, none of the code has any functionality besides whats already shown at the main templates repository**
 
 ## License
 
