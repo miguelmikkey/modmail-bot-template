@@ -1,6 +1,6 @@
 <div style="text-align:center" align="center">
 
-# Discord bot 🤖 template for DiscordJS bots
+# ModMail bot 🤖 template for DiscordJS bots
 
 ![commits](https://badgen.net/github/commits/miguelmikkey/modmail-bot-template/)
 ![master](https://img.shields.io/github/last-commit/miguelmikkey/modmail-bot-template/main)
