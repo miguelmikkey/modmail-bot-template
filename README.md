@@ -14,7 +14,7 @@ This repository contains a basic template for creating a **ModMail** bot using m
 
 ## Contributing
 
-> [!CAUTION] > **This repository is under development, none of the code has any functionality besides whats already shown at the main templates repository**
+> [!CAUTION] **This repository is under development, none of the code has any functionality besides whats already shown at the main templates repository**
 
 ## License
 
